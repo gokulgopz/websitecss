@@ -1,0 +1,102 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+header{
+
+
+	background-image:linear-gradient(rgba(0,0,0.1,0.1),rgba(0,0,0,0.8)),url(../bul.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+
+
+
+}
+ul{	
+
+	float: right;
+	margin-top: 23px;
+
+
+
+
+}
+
+
+ul li{
+	display: inline;
+
+
+}
+
+ul li a{
+	text-decoration: none;
+	color: #353504;
+	padding: 8px 28px;
+	border:3px solid transparent; 
+	transition: 0.5s ease;
+
+}
+ul li a:hover{
+	background-color: #fff;
+	color: #02;
+}
+
+ul li .Active a{
+	background-color: 
+
+
+}
+.logo img{
+	float: left;
+	margin-left: 15vh;
+	
+	
+	width :180px;
+	height:auto;
+}
+.main{
+	max-width: 1200px;
+	margin: auto;
+
+}
+.title{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+
+.title h1{
+	color:#fff;
+	font-size:70px;
+
+
+
+
+}
+.ebody{
+	background-image:linear-gradient(rgba(0,0,0.1,0.1),rgba(0,0,0,0.8)),url(../bul.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+
+
+
+
+
+}
+.header{
+	color: #fff;
+
+
+
+}
+
+
+
+
+
